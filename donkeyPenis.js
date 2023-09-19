@@ -1,5 +1,5 @@
 const hello = (name) => {
-    return `salam ${name} kale kiri`;
+    return `salam ${name}`;
 }
 
 console.log(hello("meGQD"));
